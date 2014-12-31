@@ -1,0 +1,81 @@
+html {
+	background-color: #001625;
+	font-family: 'Yanone Kaffeesatz';
+}
+h1 {
+	font-size: 42px;
+}
+h1, h2 {
+	text-align: center;
+	margin: 0;
+}
+.wrapper {
+	width: 480px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.question {
+	color: #f28008;
+}
+.answer {
+	color: #FFFFFF;
+}
+#vuls-clock {
+	top: 345px;
+	padding-left: 21px;
+	position: absolute;
+}
+.flip-clock-label {
+	color: #ffffff !important; 
+	font-family: 'Yanone Kaffeesatz' !important;
+	font-size: 20px;
+}
+.logo {
+	width: 490px;
+}
+.flip-clock-wrapper {
+	margin: 0 !important;
+}
+.flip-clock-wrapper ul li a div div.inn {	
+  font-size: 24px !important;
+}
+.flip-clock-wrapper ul li {
+	line-height: 40px !important;
+	text-decoration: none !important;
+}
+.flip-clock-wrapper ul {
+	width: 40px !important;
+	height: 40px !important;
+	margin: 2px !important;
+}
+.flip-clock-divider {
+	height: 50px !important;
+}
+.flip-clock-dot.bottom {
+	bottom: 14px !important;
+}
+.flip-clock-dot.top {
+	top: 9px !important;
+}
+.flip-clock-divider {
+	width: 18px !important;
+}
+.flip-clock-divider:first-child {
+	width: 0 !important;
+}
+
+.flip-clock-divider .flip-clock-label {
+	right: -83px !important;
+	top: -1.2em !important;
+}
+
+.flip-clock-divider.hours .flip-clock-label {
+	right: -62px !important;
+}
+.flip-clock-divider.minutes .flip-clock-label {
+	right: -75px !important;
+}
+.flip-clock-divider.seconds .flip-clock-label {
+	right: -75px !important;
+}
