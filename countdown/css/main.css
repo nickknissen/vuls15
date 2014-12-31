@@ -22,6 +22,7 @@ h1, h2 {
 	color: #FFFFFF;
 }
 #vuls-clock {
+	width: 450px;
 	top: 345px;
 	padding-left: 21px;
 	position: absolute;
